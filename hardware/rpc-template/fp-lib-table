@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rpc-template)(type KiCad)(uri ${KIPRJMOD}/../libs/rpc-template.pretty)(options "")(descr ""))
+)
